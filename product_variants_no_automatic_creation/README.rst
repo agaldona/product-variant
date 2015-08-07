@@ -1,13 +1,13 @@
 .. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
     :alt: License: AGPL-3
 
-Product Variants
-================
+Prevent the automatic creation of the variants of a product
+===========================================================
 
 This module creates a check in categories and an option in product templates,
 so that it does not create the product variants when the attributes are
 assigned. This is used by those modules that create the product when it is
-estrictly necessary.
+strictly needed.
 
 
 Bug Tracker
