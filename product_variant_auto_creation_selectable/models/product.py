@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
-#############################################################################
 # (c) 2015 Oihane Crucelaegui - AvanzOSC
-# License AGPL-3 - See LICENSE file on root folder for details
-#############################################################################
+# License AGPL-3 - See http://www.gnu.org/licenses/agpl-3.0.html
 
 from openerp import api, fields, models, _
 
@@ -92,7 +90,7 @@ class ProductTemplate(models.Model):
                         'value_id': value.id,
                     })
         result = self._get_act_window_dict(
-            'product_variants_no_automatic_creation.attribute_price_action')
+            'product_variants_auto_creation_selectable.attribute_price_action')
         return result
 
     @api.model

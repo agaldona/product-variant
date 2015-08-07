@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 #############################################################################
 # (c) 2015 Oihane Crucelaegui - AvanzOSC
-# License AGPL-3 - See LICENSE file on root folder for details
+# License AGPL-3 - See http://www.gnu.org/licenses/agpl-3.0.html
 #############################################################################
 
 {
-    "name": "Prevent the automatic creation of the variants of a product",
-    "summary": "Disable automatic product variant creation",
+    "name": "Product variant automatic creation selectable",
+    "summary": "Prevents the automatic creation of the variants of a product",
     "version": "1.0",
     "category": "Product Management",
     "license": "AGPL-3",
