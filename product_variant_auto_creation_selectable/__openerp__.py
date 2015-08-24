@@ -7,7 +7,7 @@
 {
     "name": "Product variant automatic creation selectable",
     "summary": "Prevents the automatic creation of the variants of a product",
-    "version": "1.0",
+    "version": "8.0.1.0.0",
     "category": "Product Management",
     "license": "AGPL-3",
     "author": "OdooMRP team, "

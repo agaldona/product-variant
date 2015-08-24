@@ -10,6 +10,18 @@ assigned. This is used by those modules that create the product when it is
 strictly needed.
 
 
+Usage
+=====
+
+.. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
+   :alt: Try me on Runbot
+   :target: https://runbot.odoo-community.org/runbot/137/8.0
+
+For further information, please visit:
+
+* https://www.odoo.com/forum/help-1
+
+
 Bug Tracker
 ===========
 
